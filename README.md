@@ -1,7 +1,7 @@
 # 💫 About Me
 Loves to play with data and draw insights<br>Pandas, numpy and scikit-learn are my friends<br>Currently learning Deep Learning<br>Loves hiking and reading books<br>Fluent in French, with deep understanding of language nuances<br>Future goal: Want to learn sky diving
 
-<div style="border: 2px solid #4a4a4a; padding: 20px; border-radius: 10px; background-color: #f9f9f9; margin: 20px 0; font-size: 18px; line-height: 1.6;">
+<div style="border: 2px solid white; padding: 20px; border-radius: 10px; background-color: #1e1e1e; margin: 20px 0; font-size: 18px; line-height: 1.6; color: white;">
   <strong>💬 Quote:</strong><br>
   <em>“It is in Apple’s DNA that technology alone is not enough — it’s technology married with liberal arts, married with the humanities, that yields us the results that make our heart sing.”</em><br>
   — Steve Jobs
