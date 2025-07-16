@@ -1,6 +1,11 @@
 # 💫 About Me
 Loves to play with data and draw insights<br>Pandas, numpy and scikit-learn are my friends<br>Currently learning Deep Learning<br>Loves hiking and reading books<br>Fluent in French, with deep understanding of language nuances<br>Future goal: Want to learn sky diving
 
+<div style="border: 1px solid #ccc; padding: 16px; border-radius: 8px; background-color: #f0f0f0; margin: 20px 0;">
+  <strong>💬 Quote:</strong><br>
+  <em>“It is in Apple’s DNA that technology alone is not enough — it’s technology married with liberal arts, married with the humanities, that yields us the results that make our heart sing.”</em><br>
+  — Steve Jobs
+</div>
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjam.preet.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/preetsanjam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjam-preet-singh-7300a5a4) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sanjam.preet) 
